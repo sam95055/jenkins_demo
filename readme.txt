@@ -1,2 +1,2 @@
 this is a sample file created for jenkins
-my name is $name $lastname
+echo "my name is $name $lastname"
